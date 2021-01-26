@@ -14,8 +14,8 @@ author: Muthoni Robert
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Hire Me: "hireme"
+About Me: "aboutme"
+Hire Me: "hireme"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Academic Samples: "https://deanattali.com"
